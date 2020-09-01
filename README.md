@@ -1,6 +1,7 @@
 # Animated Colors Light
 
-A light theme with an animated color-changing background for Firefox add-ons. Created for Firefox add-ons.
+A light theme with an animated color-changing background. Created for Firefox add-ons.
+
 
 ## Demo
 
